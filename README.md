@@ -21,8 +21,6 @@ Throughout my career, I have been involved in successful projects and initiative
 As a Senior Software Engineer and Senior Security Engineer, I thrive on challenging projects and seek opportunities to make impactful contributions. I am eager to join a dynamic organization where I can further develop as a professional, collaborate with like-minded individuals, and contribute to delivering high-quality software solutions while ensuring system security and integrity.
 
 Let's connect and explore how we can work together to create innovative and secure software solutions. Reach out to me at [email protected] or connect with me on LinkedIn.
-<!--
-**JohnnyIrvin/JohnnyIrvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## I'm Currently Learning
 
@@ -33,7 +31,10 @@ Through this learning journey, I aim to acquire the necessary knowledge and skil
 Stay tuned for exciting projects and collaborations as I progress in Android development, reverse engineering, and the pursuit of securing the Android ecosystem.
 
 
-<-- Here are some ideas to get you started:
+<--
+**JohnnyIrvin/JohnnyIrvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
