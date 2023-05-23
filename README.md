@@ -31,7 +31,7 @@ Through this learning journey, I aim to acquire the necessary knowledge and skil
 Stay tuned for exciting projects and collaborations as I progress in Android development, reverse engineering, and the pursuit of securing the Android ecosystem.
 
 
-<--
+<!-
 **JohnnyIrvin/JohnnyIrvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
