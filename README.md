@@ -1,16 +1,19 @@
 # Johnathan Irvin (he/him)
 
-## Senior Software Engineer | Senior Security Engineer
+## Vulnerability Research
 
-Experienced Senior Software Engineer and Senior Security Engineer with a track record of over 15 years in developing and deploying software applications. Passionate about technology since an early age, I have consistently expanded my programming skills and knowledge. Proficient in Python, JavaScript, and C#, I excel in enterprise full-stack SaaS applications and industrial automation software.
+Experienced Vulnerability Researcher with a solid background in software engineering. Passionate about cybersecurity and dedicated to identifying vulnerabilities to enhance system security.
 
 ## Key Skills:
 
-- Full-stack software development
-- Agile methodologies and project management
-- Strong knowledge of Python, JavaScript, and C#
-- Software security and integrity
-- Collaboration and teamwork
+- Full-Stack Software Development
+- Agile Methodologies
+- Project Management
+- Python, JavaScript, C#, Java, C, etc.
+- Vulnerability Assessment
+- Penetration Testing
+- Exploit Development,
+- Reverse Engineering
 
 ## Experience and Expertise:
 
