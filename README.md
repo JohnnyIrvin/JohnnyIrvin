@@ -1,6 +1,6 @@
 # Johnathan Irvin (he/him)
 
-## Vulnerability Research
+## Vulnerability Researcher
 
 Experienced Vulnerability Researcher with a solid background in software engineering. Passionate about cybersecurity and dedicated to identifying vulnerabilities to enhance system security.
 
